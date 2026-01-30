@@ -1,6 +1,6 @@
 ---
-name: New issue
-about: Template to create new issues
+name: User story
+about: Template to create new user stories
 title: ''
 labels: ''
 assignees: ''
